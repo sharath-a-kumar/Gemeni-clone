@@ -20,7 +20,7 @@ import { Context } from '../../context/Context'
             {!showResult
             ?<>
              <div className="greet">
-                <p><span>Hello, Anish</span></p>
+                <p><span>Hello, Sharath</span></p>
                 <p>How can I help you today?</p>
             </div>
             <div className="cards">
